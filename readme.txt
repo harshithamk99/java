@@ -3,8 +3,6 @@ This is java file for github webhook
 To run this java file We need to compile
 To compile- javac 
 commits chnage
-add files
-new commits
-a new commit
+a new commit made
 
 
